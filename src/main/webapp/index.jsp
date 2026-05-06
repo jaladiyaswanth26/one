@@ -517,7 +517,7 @@
             <div style="display:flex;align-items:center;gap:18px;">
                 <button class="mobile-toggle" id="mobileToggle" aria-label="Open menu"><em class="fas fa-bars"></em></button>
                 <a class="brand" href="#">
-                    <span>Yash<span class="accent">Shop</span></span>
+                    <span>Priya<span class="accent">Shop</span></span>
                 </a>
             </div>
 
